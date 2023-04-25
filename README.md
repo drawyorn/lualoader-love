@@ -1,3 +1,3 @@
 # lualoader-love
-note that these are not sandboxed
-little script to load lua files from a directory in love2d
+note that these are not sandboxed.
+a little script to load all lua files from a directory in love2d
